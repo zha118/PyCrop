@@ -1,4 +1,4 @@
 PyCrop
 ======
 
-Python fro crop modelling
+Python for crop modelling
